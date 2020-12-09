@@ -1,5 +1,5 @@
 # Ignore everything
-./Ozone_ARM_Release/*
+*
 
 # Except args.gn files
 !./Ozone_ARM_Release/args.gn
