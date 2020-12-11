@@ -2,4 +2,4 @@
 *
 
 # Except args.gn files
-!./Ozone_ARM_Release/args.gn
+!Ozone_ARM_RPi_Release/args.gn
