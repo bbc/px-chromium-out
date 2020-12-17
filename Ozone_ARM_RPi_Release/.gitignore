@@ -1,5 +1,6 @@
 # Ignore everything
 *
 
-# Except args.gn
+# Except .gitignore and args.gn
+!.gitignore
 !args.gn
