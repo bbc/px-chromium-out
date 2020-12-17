@@ -1,0 +1,19 @@
+use_ozone = true
+ozone_platform_x11 = false
+ozone_platform_drm = true
+ozone_platform_headless = false
+ozone_platform = "drm"
+use_intel_minigbm = true
+
+ffmpeg_branding = "Chrome"
+proprietary_codecs = true
+
+target_os = "chromeos"
+enable_linux_installer = true
+
+google_api_key = "no"
+google_default_client_id = "no"
+google_default_client_secret = "no"
+
+enable_nacl = false
+blink_symbol_level = 0
