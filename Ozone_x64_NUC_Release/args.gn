@@ -7,6 +7,7 @@ use_intel_minigbm = true
 
 ffmpeg_branding = "Chrome"
 proprietary_codecs = true
+use_vaapi = true
 
 target_os = "chromeos"
 enable_linux_installer = true
