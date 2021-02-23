@@ -4,6 +4,7 @@ ozone_platform_drm = true
 ozone_platform_headless = false
 ozone_platform = "drm"
 use_intel_minigbm = true
+use_intel_minigbm_scanout_y_tiled = true
 
 ffmpeg_branding = "Chrome"
 proprietary_codecs = true
