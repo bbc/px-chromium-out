@@ -3,6 +3,7 @@ ozone_platform_x11 = false
 ozone_platform_gbm = true
 ozone_platform_headless = false
 use_vc4_minigbm = true
+use_v3d_minigbm = true
 
 ffmpeg_branding = "Chrome"
 proprietary_codecs = true
